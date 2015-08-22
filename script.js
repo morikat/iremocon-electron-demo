@@ -11,7 +11,7 @@ $(function(){
         // e.g. 003 受信エラー 不正なリモコンデータを受信した
         return;
       }
-      //console.log(msg);
+      console.log(msg);
       //alert(msg);
       return;
       // e.g. ic;ok
@@ -27,7 +27,7 @@ $(function(){
         // e.g. 003 受信エラー 不正なリモコンデータを受信した
         return;
       }
-      //console.log(msg);
+      console.log(msg);
       //alert(msg);
       // e.g. ic;ok
     }); 
