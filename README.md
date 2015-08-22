@@ -1,5 +1,9 @@
 # iremocon-electron-demo
 
+## screen shot
+
+![iRemocon Electron Demo](images/electron-iremocon-image.png)
+
 ## build
 
 ```
