@@ -8,7 +8,7 @@
     "build": "node_modules/.bin/electron .",
     "release": "node release.js"
   },
-  "author": "",
+  "author": "morikat",
   "license": "MIT",
   "dependencies": {
     "iremocon": "git+https://github.com/hecomi/node-iRemocon.git#abe163010addfade76e6d237b9f11ed621f02350"
